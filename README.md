@@ -1,2 +1,9 @@
-# Hi there 👋
-Hi my name is Borbely Tibor
+Hi! My name is Borbely Tibor 👋
+========================================================================================================================================
+
+🌍  I am a Front-End Developer based in Targu Mures, Romania.
+<br/>
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
