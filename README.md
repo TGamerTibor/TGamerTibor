@@ -7,3 +7,7 @@ Hi! My name is Borbely Tibor 👋
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+### Socials
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/borbely-tibor-b0481a280/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
