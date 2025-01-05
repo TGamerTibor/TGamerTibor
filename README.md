@@ -10,4 +10,4 @@ Hi! My name is Borbely Tibor 👋
 
 ### Socials
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/borbely-tibor-b0481a280/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/borbely-tibor-b0481a280/) &nbsp; [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tiborborbely22/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
