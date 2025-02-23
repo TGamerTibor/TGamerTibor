@@ -1,7 +1,7 @@
 Hi! My name is Borbely Tibor 👋
 ========================================================================================================================================
 
-🌍  I am a Junior Front-End Developer based in Targu Mures, Romania.
+🌍  I am a Junior Front-End Developer based in Targu Mures, Romania.🏠
 <br/>
 
 ### Skills
